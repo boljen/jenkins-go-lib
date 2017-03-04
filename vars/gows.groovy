@@ -13,5 +13,3 @@ def goWorkspace(go_tool_name, name, body) {
         }
     }
 }
-
-return this;
